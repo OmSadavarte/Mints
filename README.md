@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a >
-    <img src="mintgood.png" alt="Logo" width="300" height="200">
+    <img src="mint.png" alt="Logo" width="300" height="200">
   </a>
   <h1 align="center">Mint - NFT Marketplace!</h1>
   <p align="center">  
